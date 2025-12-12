@@ -3,7 +3,7 @@
 ## About me
 
 - 🍎 Teaching Assistant for Software Engineering
-- 🎓 Computer Science undergraduate
+- 🎓 Computer Science undergraduate student
 - ✍️ Blog author
 
 ## Interests
