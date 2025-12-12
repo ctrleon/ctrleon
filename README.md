@@ -5,7 +5,12 @@
 - 🍎 Teaching Assistant for Software Engineering
 - 🎓 Computer Science undergraduate
 - ✍️ Blog author
-- 🐧 Alpine Linux user
+
+## Interests
+
+- 🛡️ Cybersecurity
+- 🌐 Networking
+- 🐧 Linux systems
 
 ## Connect with me
 
