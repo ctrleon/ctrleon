@@ -1,18 +1,3 @@
-# Welcome to my GitHub profile! 👋
-
-## About me
-
-- 🍎 Teaching Assistant for Software Engineering
-- 🎓 Computer Science undergraduate student
-- ✍️ Blog author
-
-## Interests
-
-- 🛡️ Cybersecurity
-- 🌐 Networking
-- 🐧 Linux systems
-
-## Connect with me
-
-- 🌍 [Personal website](https://ctrleon.page)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cristina-cornejo-leon/)
+- Hi, I'm Cristina. I'm a computer science undergraduate based in Germany.
+- I'm interested in Linux systems, particularly non-systemd ones, as well as cryptography and server administration.
+- Thoughts and notes on these topics can be found on my [website](https://ctrleon.page).
