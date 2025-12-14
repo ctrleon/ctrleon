@@ -1,3 +1,3 @@
-- Hi, I'm Cristina. I'm a computer science undergraduate based in Germany.
+- Hi, I'm Cristina. I'm a Bachelor's student of Computer Science. 
 - I'm interested in Linux systems, particularly non-systemd ones, as well as cryptography and server administration.
 - Thoughts and notes on these topics can be found on my [website](https://ctrleon.page).
