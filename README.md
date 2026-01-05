@@ -1,3 +1,3 @@
 - Hi, I'm Cristina. I'm a Bachelor's student of Computer Science. 
-- I'm interested in Linux systems, particularly non-systemd ones, as well as cryptography and server administration.
+- I'm interested in Linux systems, particularly systemd-free ones, as well as cryptography and server administration.
 - I share my notes and thoughts on these topics on my [website](https://ctrleon.page).
